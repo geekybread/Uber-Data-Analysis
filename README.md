@@ -1,6 +1,6 @@
 # Uber-Data-Analysis
 
-# CONTENT
+## CONTENT
  . Georgraphy : USA, Sri lanka and pakistan
  <br/>
  . Time period : jan-dec 2016
@@ -14,6 +14,7 @@
 
 The dataset contains start date, end date, start location, end location, miles driven, and purpose of drive( business, personal, meals, meetings)
 
+Applied different data cleaning and visualization techniques to get better insights about the data.
 
 ## CONCLUSIONS:
 
